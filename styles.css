@@ -1,0 +1,176 @@
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+    background-color:  hsl(0, 0%, 98%);
+    
+}
+
+.container
+{
+    height: 600px;
+    width: 1300px;
+    position: relative;
+    top: 50px;
+    left:100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow:2px 10px 10px 2px rgba(139, 139, 139,.4); 
+    text-align: center;
+}
+.firstp
+{
+    color: hsl(234, 12%, 34%);
+    font-size:28px;
+    margin: 0px;
+    font-weight: 200;
+    padding-top: 20px;
+}
+.secondp
+{
+    color: hsl(234, 12%, 34%);
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0px;
+}
+.thirdp
+{
+   color:  hsl(229, 6%, 66%);
+   font-size:12px;
+   margin: 0px;
+}
+.supervisor
+{
+    height: 180px;
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 120px;
+    left: 230px;
+    box-shadow:2px 2px 10px 2px rgba(139, 139, 139,.4);
+    border-top: 3px solid hsl(180, 62%, 55%);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+}
+.teambuilder
+{
+    height: 180px;
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    left: 120px;
+    top: 20px;
+    box-shadow:2px 2px 10px 2px rgba(139, 139, 139,.4);
+    border-top: 3px solid hsl(0, 78%, 62%);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+}
+.karma
+{
+    height: 180px;
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    top: 230px;
+    right: 145px;
+    box-shadow:2px 2px 10px 2px rgba(139, 139, 139,.4);
+    border-top: 3px solid  hsl(34, 97%, 64%);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+}
+.calculator
+{
+    height: 180px;
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    float: right;
+    top: 120px;
+    right: 245px;
+    box-shadow:2px 2px 10px 2px rgba(139, 139, 139,.4);
+    border-top: 3px solid hsl(212, 86%, 64%);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+}
+.box1p1
+{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+.box1p2
+{
+    color:hsl(229, 6%, 66%);
+    font-size:12px;
+    position: absolute;
+    top: 30px;
+}
+.box2p1
+{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+.box2p2
+{
+    color:hsl(229, 6%, 66%);
+    font-size:12px;
+    position: absolute;
+    top: 30px;
+}
+.box3p1
+{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+    
+}
+.box3p2
+{
+    color:hsl(229, 6%, 66%);
+    font-size:12px;
+    position: absolute;
+    top: 30px;
+}
+.box4p1
+{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+.box4p2
+{
+    color:hsl(229, 6%, 66%);
+    font-size:12px;
+    position: absolute;
+    top: 30px;
+}
+.svg1
+{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}
+.svg2
+{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}
+.svg3
+{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}
+.svg4
+{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}
